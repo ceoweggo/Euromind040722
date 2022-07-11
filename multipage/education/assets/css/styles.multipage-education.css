@@ -9,7 +9,7 @@ html {
 body {
   font-weight: 400;
   font-size: 1rem;
-  font-family: "Barlow", sans-serif;
+  font-family: 'Raleway', sans-serif;
   line-height: 1.6;
   color: #26304d;
   -webkit-font-smoothing: antialiased;
@@ -20,13 +20,13 @@ body {
 }
 
 a {
-  color: #a61d37;
+  color: #03A678;
   outline: none;
 }
 
 a:focus,
 a:hover {
-  color: #901930;
+  color: #014040;
 }
 
 .nav-link {
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 
 ::selection {
   color: #fff;
-  background-color: #a61d37;
+  background-color: #03A678;
 }
 
 .g-bg-primary ::-moz-selection {
@@ -2957,12 +2957,12 @@ body[class*="u-body--header-side"].u-body--header-side-opened .u-header__overlay
 /* Button Primary */
 .u-btn-primary {
   color: #fff;
-  background-color: #a61d37;
+  background-color: #014040;
 }
 
 .u-btn-primary:hover, .u-btn-primary.active {
-  border-color: #d12545;
-  background-color: #d12545;
+  border-color: #0000;
+  background-color: #03A678;
 }
 
 .u-btn-primary:hover, .u-btn-primary:focus, .u-btn-primary.active {
@@ -9890,7 +9890,7 @@ body .u-icon-v5 {
 
 /*------------------------------------
   Form Elements
-------------------------------------*/
+-----------------------------------*/
 .u-form-control {
   padding: .8rem 1rem .6rem;
 }
@@ -11405,8 +11405,8 @@ input[type="radio"]:checked + * .g-show-check {
 .u-check input[type="radio"]:checked + * .u-check-icon-checkbox-v6 i,
 .u-check input[type="radio"]:checked + * .u-check-icon-radio-v6 i {
   color: #fff;
-  background-color: #a61d37;
-  border-color: #a61d37;
+  background-color: #03A678;
+  border-color: #999 ;
 }
 
 .u-check input[type="checkbox"]:checked + .u-check-icon-checkbox-v6 i::before,
@@ -31005,7 +31005,7 @@ pre[class*="language-"] .toolbar-item a {
 }
 
 .g-brd-primary--hover:hover, .g-brd-primary--active.active {
-  border-color: #a61d37 !important;
+  border-color: #03A678 !important;
 }
 
 .g-brd-primary--active.active,
@@ -49282,7 +49282,8 @@ body {
 ------------------------------------*/
 .h1, .h2, .h3, .h4, .h5, .h6, .h7,
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Alegreya", serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
 }
 
 p {
