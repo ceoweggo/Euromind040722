@@ -1,0 +1,3 @@
+Integrar códigos de comunicación en sistemas blockchain a través de internet para expandir a satélites y crear una red de comunicación filtrada a nivel global. Ya existe, la idea es mejorar la comunicación para usos terciarios
+
+Utilidad: coordinación masiva entre diferentes dispositivos.
